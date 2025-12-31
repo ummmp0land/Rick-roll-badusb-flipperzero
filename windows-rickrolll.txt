@@ -3,6 +3,6 @@ REM Open Run dialog
 GUI r
 DELAY 500
 REM Open the default web browser
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
 ENTER
 DELAY 1000
